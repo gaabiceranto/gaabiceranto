@@ -38,7 +38,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/gabriela-ceranto-730304159/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-gabrielaceranto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
   <a href="mailto:gabiceranto@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-gabiceranto-05122A?style=flat&logo=gmail" alt="gmail"/>
