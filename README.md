@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
+
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou a Gabriela Ceranto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sou formada em Design Gráfico e estou no 2º ano de Ciências de computação 
@@ -40,6 +40,9 @@
 <a href="https://www.linkedin.com/in/gabriela-ceranto-730304159/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
- <a href = "mailto:piasetzki.giselle@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabiceranto@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabiceranto-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+ 
 
 
