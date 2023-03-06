@@ -22,7 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 🛠 &nbsp;Design Stack
+## 🖌️ &nbsp;Design Stack
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobePhotoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeIllustrator)&nbsp;
@@ -36,7 +36,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=gaabiceranto&show_icons=true&theme=vision-friendly-dark" alt="gaabiceranto's stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=gaabiceranto&show_icons=true&theme=vision-friendly-dark" alt="gaabiceranto's stats"/>
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabiceranto&layout=compact&theme=vision-friendly-dark" alt="gaabiceranto's most languages"/>
 </p>
 
