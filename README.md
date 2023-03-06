@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou a Gabriela Ceranto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+
 
 - 🔥 Sou formada em Design Gráfico e estou no 2º ano de Ciências de computação 
 
@@ -37,7 +37,7 @@
 
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=gaabiceranto&show_icons=true&theme=vision-friendly-dark" alt="gaabiceranto's stats"/>
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabiceranto&layout=compact&theme=vision-friendly-dark" alt="gaabiceranto's most languages"/>
+<img width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabiceranto&layout=compact&theme=vision-friendly-dark" alt="gaabiceranto's most languages"/>
 </p>
 
 
