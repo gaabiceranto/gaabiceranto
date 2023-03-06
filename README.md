@@ -8,7 +8,7 @@
 
 - 🔭 Estou a procura da minha primeira oportunidade para usar minhas habilidades no Front-end.
 
-<!--
+
 
 <br><br>
 
@@ -22,6 +22,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## 🛠 &nbsp;Design Stack
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobePhotoshop)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeIllustrator)&nbsp;
+![Indesign](https://img.shields.io/badge/-Indesign-05122A?style=flat&logo=adobeIndesign)&nbsp;
+![Cinema-4D](https://img.shields.io/badge/-Cinema4D-05122A?style=flat&logo=cinema4d)&nbsp;
+
+
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -30,7 +39,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="gaabiceranto's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabiceranto&layout=compact&theme=vision-friendly-dark" alt="gaabiceranto's most languages"/>
 </p>
--->
+
 
 <br><br>
 
