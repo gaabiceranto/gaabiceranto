@@ -2,11 +2,10 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou a Gabriela Ceranto</h1>
 
 
-- 🔥 Sou formada em Design Gráfico e estou no 2º ano de Ciências de computação 
+- 🔥 Sou formada em Design Gráfico e já passei por 2 anos dos curso ciências da computação
 
-- 📚 Tenho conhecimento em JavaScript, CSS, HTML, Git, Github e estou estudando React atualmente.
+- 📚 Tenho conhecimento em JavaScript, CSS, HTML, Git, Github, React, Next.Js e estou comeeçando meus estudos em Java atualmente.
 
-- 🔭 Estou a procura da minha primeira oportunidade para usar minhas habilidades no Front-end.
 
 
 
