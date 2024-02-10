@@ -4,8 +4,7 @@
 
 - 🔥 I hold a degree in Graphic Design, pursued studies in Computer Science for 2 years, and currently in my first year of Information Systems.
 
-- 📚 Possuo proficiência em JavaScript, CSS, HTML, Git, Github, React, Next.Js
-
+- 📚 I possess proficiency in JavaScript, CSS, HTML, Git, Github, React and Next.Js.
 
 
 
