@@ -1,10 +1,10 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou a Gabriela Ceranto</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I am Gabriela Ceranto</h1>
 
 
-- 🔥 Sou formada em Design Gráfico e já passei por 2 anos dos curso ciências da computação
+- 🔥 I hold a degree in Graphic Design, pursued studies in Computer Science for 2 years, and currently in my first year of Information Systems.
 
-- 📚 Tenho conhecimento em JavaScript, CSS, HTML, Git, Github, React, Next.Js e estou comeeçando meus estudos em Java atualmente.
+- 📚 Possuo proficiência em JavaScript, CSS, HTML, Git, Github, React, Next.Js
 
 
 
