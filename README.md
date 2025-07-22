@@ -3,7 +3,7 @@
 ---
 
 ## **🔥 Sobre Mim**
-Desenvolvedora **Front‑End** com **+4 anos** de experiência em desenvolvimento web full‑stack, focada em **React.js**, integração de **APIs REST** e aplicações de alta performance. Expertise em **JavaScript (ES6+)**, **TypeScript**, **HTML5**, **CSS3/SCSS**, **Git**, **Docker** e **CI/CD**. Familiarizada com **Clean Architecture**, **TDD**, **DDD**, **WCAG 2.1** e **ARIA**. Finalista no **Oi DEVs 2023**.
+Desenvolvedora **Front‑End** com **+3 anos** de experiência em desenvolvimento web full‑stack, focada em **React.js**, integração de **APIs REST** e aplicações de alta performance. Expertise em **JavaScript (ES6+)**, **TypeScript**, **HTML5**, **CSS3/SCSS**, **Git**, **Docker** e **CI/CD**. Familiarizada com **Clean Architecture**, **TDD**, **DDD**, **WCAG 2.1** e **ARIA**. Finalista no **Oi DEVs 2023**.
 
 ---
 
